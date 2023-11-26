@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       
 <a style="margin-left: 5px;" target="_blank" href="https://pomog.github.io/resume/">
-<img src="https://pomog.github.io/resume/"></a>
+<img src="https://img.icons8.com/bubbles/50/resume.png"></a>
      
 </div>
 </p>
