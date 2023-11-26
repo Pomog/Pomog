@@ -17,3 +17,21 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 - 👯 I’m looking to collaborate on ...
 
+ <p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+ 
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yuriipanasiuk1983/">
+			    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+       
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Pomog">
+		      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+
+        <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@PomogB">
+				  <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+      
+		    <a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://icons8.com/icon/115635/resume"></a>
+     
+      </div>
+</p>
+
