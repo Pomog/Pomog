@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@PomogB">
 <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       
-<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+<a style="margin-left: 5px;" target="_blank" href="https://pomog.github.io/resume/">
 <img src="https://pomog.github.io/resume/"></a>
      
 </div>
