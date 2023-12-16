@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a href="https://github.com/Pomog/ForumFFF" target="blank">Forum Project</a>
 - 🧐 I’m currently studying at <a href="https://kood.tech/" target="blank">kood/Jõhvi</a>
-- 🌱 I’m currently learning <a href="https://go.dev/" target="blank">Go</a>
+- 🌱 I’m currently learning <a href="https://aws.amazon.com/" target="blank">AWS</a>
 - 📫 How to reach me: **thoryur@gmail.com**
 - 📄 Know about my experiences <a href="https://pomog.github.io/resume/" target="blank">Resume</a>
 - 👯 I’m looking to collaborate on ...
