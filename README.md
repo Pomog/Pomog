@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <a href="https://github.com/Pomog/ForumFFF" target="blank">Forum Project</a>
+- 🔭 I’m currently working on  <a href="https://github.com/TartuDen/BMR_Generator" target="blank">BMR_Generator</a>,  <a href="https://github.com/Pomog/ForumFFF" target="blank">Forum Project</a>
 - 🧐 I’m currently studying at <a href="https://kood.tech/" target="blank">kood/Jõhvi</a>
 - 🌱 I’m currently learning <a href="https://aws.amazon.com/" target="blank">AWS</a>
 - 📫 How to reach me: **thoryur@gmail.com**
