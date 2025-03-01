@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on [MERNexus](https://github.com/Pomog/MERNexus)
 - 🧐 I’m currently studying at <a href="https://kood.tech/" target="blank">kood/Jõhvi</a>
 - 🌱 I’m currently learning <a href="https://aws.amazon.com/" target="blank">AWS</a>
 - 📫 How to reach me: **thoryur@gmail.com**
