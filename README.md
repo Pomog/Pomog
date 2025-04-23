@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🧐 I’m currently studying at <a href="https://kood.tech/" target="blank">kood/Jõhvi</a>
 - 🌱 I’m currently learning <a href="https://aws.amazon.com/" target="blank">AWS</a>
 - 📫 How to reach me: **thoryur@gmail.com**
-- 📄 Know about my experiences <a href="https://pomog.github.io/resume/" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/yuriipanasiuk1983/" target="blank">Resume</a>
 - 👯 I’m looking to collaborate on ...
 
 <p align="center">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@PomogB">
 <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       
-<a style="margin-left: 5px;" target="_blank" href="https://pomog.github.io/resume/">
+<a style="margin-left: 5px;" target="_blank" href="https://www.linkedin.com/in/yuriipanasiuk1983/">
 <img src="https://img.icons8.com/bubbles/50/resume.png"></a>
      
 </div>
